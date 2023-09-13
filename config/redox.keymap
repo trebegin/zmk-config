@@ -30,11 +30,11 @@
 
         Game {
             bindings = <
-&kp ESC           &trans  &trans  &trans        &trans        &trans                                     &trans  &trans  &trans  &trans  &trans  &trans
-&trans            &trans  &trans  &trans        &trans        &trans  &trans                     &trans  &trans  &trans  &trans  &trans  &trans  &trans
-&kp LEFT_CONTROL  &trans  &trans  &trans        &trans        &trans  &trans                     &trans  &trans  &trans  &trans  &trans  &trans  &trans
-&trans            &trans  &trans  &trans        &trans        &trans  &trans     &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
-&trans            &trans  &trans  &kp LEFT_WIN  &kp LEFT_ALT          &kp SPACE  &trans  &trans  &trans          &trans  &trans  &trans  &trans  &to 0
+&kp ESC           &trans  &trans        &trans        &trans     &trans                                  &trans  &trans  &trans  &trans  &trans  &trans
+&trans            &trans  &trans        &trans        &trans     &trans  &trans                  &trans  &trans  &trans  &trans  &trans  &trans  &trans
+&kp LEFT_CONTROL  &trans  &trans        &trans        &trans     &trans  &trans                  &trans  &trans  &trans  &trans  &trans  &trans  &trans
+&trans            &trans  &trans        &trans        &trans     &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
+&trans            &trans  &kp LEFT_WIN  &kp LEFT_ALT  &kp SPACE          &trans  &trans  &trans  &trans          &trans  &trans  &trans  &trans  &to 0
             >;
         };
 
