@@ -85,7 +85,7 @@
 &trans       &trans        &trans        &trans        &trans        &trans        &trans                  &ext_power EP_ON   &rgb_ug RGB_SPI  &rgb_ug RGB_EFF  &rgb_ug RGB_EFR  &trans  &trans  &trans
 &trans       &trans        &trans        &trans        &trans        &trans        &trans                  &ext_power EP_OFF  &rgb_ug RGB_TOG  &rgb_ug RGB_BRI  &rgb_ug RGB_BRD  &trans  &trans  &trans
 &trans       &trans        &bt BT_CLR    &trans        &trans        &trans        &trans  &trans  &trans  &trans             &rgb_ug RGB_SPD  &rgb_ug RGB_HUI  &rgb_ug RGB_HUD  &trans  &trans  &trans
-&trans       &trans        &trans        &trans        &trans                      &trans  &trans  &trans  &trans                              &trans           &trans           &trans  &trans  &trans
+&sys_reset   &trans        &trans        &trans        &trans                      &trans  &trans  &trans  &trans                              &trans           &trans           &trans  &trans  &sys_reset
             >;
         };
     };
